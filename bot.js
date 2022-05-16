@@ -94,7 +94,7 @@ client.unload = (command) => {
 });*/
 
 //-----------------------GELEN-İSİM-YAŞ----------------------\\
-//-----------------------ŞÜPHELİ-HESAP----------------------\\     STG
+//-----------------------ŞÜPHELİ-HESAP----------------------\\    
 
 /*client.on("guildMemberAdd", member => {
   var moment = require("moment")
@@ -123,7 +123,7 @@ setTimeout(() => {
     });
 
 */
-//-----------------------ŞÜPHELİ-HESAP----------------------\\     STG
+//-----------------------ŞÜPHELİ-HESAP----------------------\\     
 
 // burası hesabın oluşturma ve katılma tarihini logladığınız kanala atar
 client.on("guildMemberAdd", async (member, user, args, message) => {
